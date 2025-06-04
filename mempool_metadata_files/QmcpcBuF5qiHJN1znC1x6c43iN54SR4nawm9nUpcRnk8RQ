@@ -1,0 +1,5 @@
+chainId: '11155111'
+entryPointContract: '0x0000000071727De22E5E9d8BAf0edAc6f37da032'
+description: >-
+  This is the default/canonical mempool for EntryPoint 0.7.0, which will be used by most bundlers on Sepolia Testnet
+minimumStake: '0.1'

@@ -1,0 +1,5 @@
+chainId: '1'
+entryPointContract: '0x0000000071727De22E5E9d8BAf0edAc6f37da032'
+description: >-
+  This is the Ethereum mainnet mempool which requires a minStake of 0.4 ETH (1000 USD)
+minimumStake: '0.4'

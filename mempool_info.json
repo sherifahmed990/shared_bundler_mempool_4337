@@ -1,0 +1,140 @@
+{
+    "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789": {
+        "mempool_id":{
+            "dev": {
+                "chain_id": "1337",
+                "mempool_id": "Qmf7P3CuhzSbpJa8LqXPwRzfPqsvoQ6RG7aXvthYTzGxb2"
+            },
+            "ethereum": {
+                "chain_id": "1",
+                "mempool_id": "QmVEt8BqyX7mbPhMNkmhnxL7fLxcXxsReMQcjYMBSHBfy7",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QIN-sQm_YcXE7MJfiwqE3kB8TFK03qPtbrCGaQXL4wcaOgaQDWyIcwgAKmsTTgeRGTk3gFC4hyrsxr2zEsVP8ksBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQLKbUPWEQ7MbSQwXJoY5tlHDXZxR_IRA4Rw5wY9LEYmJoN0Y3CCIymDdWRwgiMp"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QHKFMqzIW_6jWBoiDmtnU1LWVoB6sHAe43gRgm9CeShABBfeFalOpIqbB5de28g6z6j7NDqwyQzT2HE6o1mY1eELiGNoYWluX2lkiAEAAAAAAAAAgmlkgnY0gmlwhBKFNECJc2VjcDI1NmsxoQO_DdH4ks56FEBOHuB0lpx_8DxyNdCNgehxK4Lim7c0x4N0Y3CCEPGDdWRwghDx"
+                    }
+                }
+            },
+            "optimism": {
+                "chain_id": "10",
+                "mempool_id": "QmPkygym9oarrdiTeGBFQqbJcjpv4yHLLXrqQYGqKiXs7s",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QEYP5bodKRNUNhW6mY3YEOhNPvLCdTd6S5VsXcwMWEhUPQLA71E04u-vopOzX7-uStmjxh063xwnc8w82nFRNMUBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQM9kcbUNL1PQzjfKVjXVLmEH4SE430n2meqVAVzijmBVoN0Y3CCIyqDdWRwgiMq"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QArx0McnZkx1P8--iascAonJP6aECZ11j6pYxBH-P-cvU6jTsdKoZO1od3nmfSrs1Rp5Jb689ChMLLlmCzI2Nl8BiGNoYWluX2lkiAoAAAAAAAAAgmlkgnY0gmlwhMYHeriJc2VjcDI1NmsxoQIKWTQ1Covfz0K4sIxC_qpS_6j_2hZTGdO9RSxHbTmd6YN0Y3CCEAaDdWRwghAG"
+                    }
+                }
+            },
+            "arbitrum": {
+                "chain_id": "42161",
+                "mempool_id": "QmSpr2Q6cMfZ2CvXecH843KtvnG3tzvxZVy1jKphYKd6tf",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QGmLbYpyTR0aPYi55lstOMI9aJU-Z8CJ2s2uq3rUeh1PKtFBlhabmICebh7OVRLnMfipHHa-5Ym9ekwQxcBWH9kBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQLW8pfL6S6sdDUhQRumUgLWb6H9lDoMef0ELdxBM1_TUYN0Y3CCIyuDdWRwgiMr"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QAN9PTZcmeicZhdIx5Cri80UJNcmy_sBk_GXb2H5hlpPTaLLvA_rY_Qr1TbaHAwXcWJi_kpl7mKo6K9mltfnltUFiGNoYWluX2lkiLGkAAAAAAAAgmlkgnY0gmlwhA0rDt-Jc2VjcDI1NmsxoQK1iJ272CSEdrV49WfcengKl1stEH6QCpzDKKN6C63YPYN0Y3CCEPGDdWRwghDx"
+                    }
+                }
+            },
+            "sepolia": {
+                "chain_id": "11155111",
+                "mempool_id": "QmdDwVFoEEcgv5qnaTB8ncnXGMnqrhnA5nYpRr4ouWe4AT",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QJL0SpSMr4A-7z8FWTHDFdoY-XEoFrRsHZvI_9Rsby3jCuv-Lq-EEWMVknAZ8LCdZ_-kNtT4loOJSpIaUvS3ydQBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQIVMtI9hwXOrsxLQkvjnOfAhY61-qmn5bSsZUBXDDI-JIN0Y3CCIyyDdWRwgiMs"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QH2F5DxYAFx0zqPujhDd23wdUalgP9I18pvlbh5pTWN6cFhew0-K9g1YUofV0o_HpX98Oc0zDC9V7zWvcNYO-jsjiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhEEV5tyJc2VjcDI1NmsxoQJCYamus7vvr3GXjpsucsxeaZ8dP5bnHRM8Qi3W2POquoN0Y3CCEPKDdWRwghDy"
+                    }
+                }
+            },
+            "arbitrum_sepolia": {
+                "chain_id": "421614",
+                "mempool_id": "",
+                "enrs":{
+                    "candide":{
+                        "1": ""
+                    },
+                    "etherspot":{
+                        "1": ""
+                    }
+                }
+            }
+        }
+    },
+    "0x0000000071727De22E5E9d8BAf0edAc6f37da032": {
+        "mempool_id":{
+            "dev": {
+                "chain_id": "1337",
+                "mempool_id": "Qmf7P3CuhzSbpJa8LqXPwRzfPqsvoQ6RG7aXvthYTzGxb1"
+            },
+            "ethereum": {
+                "chain_id": "1",
+                "mempool_id": "Qma9Fv7qSahePTd5ACCFG8Jsd3qJqtFUqGmmGKoVqriajp",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QIN-sQm_YcXE7MJfiwqE3kB8TFK03qPtbrCGaQXL4wcaOgaQDWyIcwgAKmsTTgeRGTk3gFC4hyrsxr2zEsVP8ksBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQLKbUPWEQ7MbSQwXJoY5tlHDXZxR_IRA4Rw5wY9LEYmJoN0Y3CCIymDdWRwgiMp"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QOMcaYDpbFRtk3tQdEQQyuKZnA6v1qyrECs0wrAk0WcPfaUpGezElkSmSdaLegC-8V0eJd4OKhCIx1Q19KZ0yNcIiGNoYWluX2lkiAEAAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQMiTeUVon4LUtbVZSyVl9iL9nMJUl9bCGPQoGbLOxUnDIN0Y3CCEPGDdWRwghDx"
+                    }
+                }
+
+            }, 
+            "optimism": {
+                "chain_id": "10",
+                "mempool_id": "QmcBcc4nxdGiKyM6RC7fZAUtsYNaAYqfzf9wfNxYmdT9Fc",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QEYP5bodKRNUNhW6mY3YEOhNPvLCdTd6S5VsXcwMWEhUPQLA71E04u-vopOzX7-uStmjxh063xwnc8w82nFRNMUBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQM9kcbUNL1PQzjfKVjXVLmEH4SE430n2meqVAVzijmBVoN0Y3CCIyqDdWRwgiMq"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QDzjX4qkjqsvOPd84F7vPRGv4hKGlUllAA76vUXqR5A_K4pzy1iHtXz9VZCfMlplJgYObNHRUQXZ6I7geor_slUIiGNoYWluX2lkiAoAAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQJa_t_4khuY9mnNZIv5dIFLR6yDYTcKMK19lAKMaONHq4N0Y3CCEPGDdWRwghDx"
+                    }
+                }
+
+            },
+            "arbitrum": {
+                "chain_id": "42161",
+                "mempool_id": "QmXH8oBNx1EjxYkSWpk8DMcyJgMxCk8Dujz1PswQGdGFyK",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QGmLbYpyTR0aPYi55lstOMI9aJU-Z8CJ2s2uq3rUeh1PKtFBlhabmICebh7OVRLnMfipHHa-5Ym9ekwQxcBWH9kBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQLW8pfL6S6sdDUhQRumUgLWb6H9lDoMef0ELdxBM1_TUYN0Y3CCIyuDdWRwgiMr"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QMxIxerBWOoD1zGJgk7iX5wUQpiKZzFVZQnfFg-Ll_7kLUIL8XGtycG2tIpRg2PiLBvE4trChtzBMCff43dDqKYIiGNoYWluX2lkiLGkAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQLZTt-Jdyj_gnXoHv5nfDMXXgrGKFFP5xcaSjKNT5OaAIN0Y3CCEPGDdWRwghDx"
+                    }
+                }
+            },
+            "sepolia": {
+                "chain_id": "11155111",
+                "mempool_id": "QmcpcBuF5qiHJN1znC1x6c43iN54SR4nawm9nUpcRnk8RQ",
+                "enrs":{
+                    "candide":{
+                        "1": "enr:-J24QJL0SpSMr4A-7z8FWTHDFdoY-XEoFrRsHZvI_9Rsby3jCuv-Lq-EEWMVknAZ8LCdZ_-kNtT4loOJSpIaUvS3ydQBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQIVMtI9hwXOrsxLQkvjnOfAhY61-qmn5bSsZUBXDDI-JIN0Y3CCIyyDdWRwgiMs"
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QHk5wR7X4C0Ia-ORWoQFb6yvmMfycxRgxfzMiYB2D-e5ERIjPlsDsbyyHul8wU0tdLkpQchqqLPGmau4ICD31UMmiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhEEV5tyJc2VjcDI1NmsxoQJCYamus7vvr3GXjpsucsxeaZ8dP5bnHRM8Qi3W2POquoN0Y3CCEPKDdWRwghDy"
+                    }
+                }
+            },
+            "arbitrum_sepolia": {
+                "chain_id": "421614",
+                "mempool_id": "Qmc3g1MCwfrkaTrJ6e1bWTwdiLiz1muzKcqrYgzcSJJXaK",
+                "enrs":{
+                    "candide":{
+                        "1": ""
+                    },
+                    "etherspot":{
+                        "1": ""
+                    }
+                }
+            }
+        }
+    }
+}

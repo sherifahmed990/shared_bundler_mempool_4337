@@ -1,0 +1,5 @@
+chainId: '42161'
+entryPointContract: '0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789'
+description: >-
+  This is the Arbitrum one mainnet mempool which requires a minStake of 0.4 ETH (1000 USD)
+minimumStake: '0.4'
