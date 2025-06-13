@@ -64,6 +64,18 @@
                         "1": ""
                     }
                 }
+            },
+            "optimism_sepolia": {
+                "chain_id": "421614",
+                "mempool_id": "",
+                "enrs":{
+                    "candide":{
+                        "1": ""
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QGdzyvB3TQAsNoQxgI0wf2fVVNdodLDe6Q1ThZCJYL-2MKL6tTqYrDGO55pyxpX6See03a9JR-NXegK6uk_uHWAFiGNoYWluX2lkiNw3qgAAAAAAgmlkgnY0gmlwhEEV5tyJc2VjcDI1NmsxoQIwFlKbzpbdosPHvEIckDIWjTrH2UghXEpLtailxgusDYN0Y3CCEPaDdWRwghD2"
+                    }
+                }
             }
         }
     },
@@ -81,7 +93,7 @@
                         "1": "enr:-J24QIN-sQm_YcXE7MJfiwqE3kB8TFK03qPtbrCGaQXL4wcaOgaQDWyIcwgAKmsTTgeRGTk3gFC4hyrsxr2zEsVP8ksBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQLKbUPWEQ7MbSQwXJoY5tlHDXZxR_IRA4Rw5wY9LEYmJoN0Y3CCIymDdWRwgiMp"
                     },
                     "etherspot":{
-                        "1": "enr:-J24QOMcaYDpbFRtk3tQdEQQyuKZnA6v1qyrECs0wrAk0WcPfaUpGezElkSmSdaLegC-8V0eJd4OKhCIx1Q19KZ0yNcIiGNoYWluX2lkiAEAAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQMiTeUVon4LUtbVZSyVl9iL9nMJUl9bCGPQoGbLOxUnDIN0Y3CCEPGDdWRwghDx"
+                        "1": "enr:-J24QDsqwJZBO1pAWTOp_I0_YYzCOk7xrTHCzP9_E__P--rPDJq7LOUbGkfhEanEUhyRPjga5uep0j9mBpmmdzigrQAdiGNoYWluX2lkiAEAAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQMiTeUVon4LUtbVZSyVl9iL9nMJUl9bCGPQoGbLOxUnDIN0Y3CCEPODdWRwghDz"
                     }
                 }
 
@@ -94,7 +106,7 @@
                         "1": "enr:-J24QEYP5bodKRNUNhW6mY3YEOhNPvLCdTd6S5VsXcwMWEhUPQLA71E04u-vopOzX7-uStmjxh063xwnc8w82nFRNMUBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQM9kcbUNL1PQzjfKVjXVLmEH4SE430n2meqVAVzijmBVoN0Y3CCIyqDdWRwgiMq"
                     },
                     "etherspot":{
-                        "1": "enr:-J24QDzjX4qkjqsvOPd84F7vPRGv4hKGlUllAA76vUXqR5A_K4pzy1iHtXz9VZCfMlplJgYObNHRUQXZ6I7geor_slUIiGNoYWluX2lkiAoAAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQJa_t_4khuY9mnNZIv5dIFLR6yDYTcKMK19lAKMaONHq4N0Y3CCEPGDdWRwghDx"
+                        "1": "enr:-J24QJpBGl_u4Xxxb-Nzw47ARVB1K4vHMGVqKK49-l5xvIddVV4Z3fSIrhJCa9ObpYHzHnwmSb5uMWdsIcl4vVbpKFUaiGNoYWluX2lkiAoAAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQJa_t_4khuY9mnNZIv5dIFLR6yDYTcKMK19lAKMaONHq4N0Y3CCEPKDdWRwghDy"
                     }
                 }
 
@@ -107,7 +119,7 @@
                         "1": "enr:-J24QGmLbYpyTR0aPYi55lstOMI9aJU-Z8CJ2s2uq3rUeh1PKtFBlhabmICebh7OVRLnMfipHHa-5Ym9ekwQxcBWH9kBiGNoYWluX2lkiKc2qgAAAAAAgmlkgnY0gmlwhBCqVvyJc2VjcDI1NmsxoQLW8pfL6S6sdDUhQRumUgLWb6H9lDoMef0ELdxBM1_TUYN0Y3CCIyuDdWRwgiMr"
                     },
                     "etherspot":{
-                        "1": "enr:-J24QMxIxerBWOoD1zGJgk7iX5wUQpiKZzFVZQnfFg-Ll_7kLUIL8XGtycG2tIpRg2PiLBvE4trChtzBMCff43dDqKYIiGNoYWluX2lkiLGkAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQLZTt-Jdyj_gnXoHv5nfDMXXgrGKFFP5xcaSjKNT5OaAIN0Y3CCEPGDdWRwghDx"
+                        "1": "enr:-J24QIfcW7RLpUriX1Y6BNy5sR5cnZSLeyIc0jxdsmxfc1LDNv04ucVj7fM6_lyXj3VSy07wgXEtLKdrSAhsOM2c-dMaiGNoYWluX2lkiLGkAAAAAAAAgmlkgnY0gmlwhA0raKCJc2VjcDI1NmsxoQLZTt-Jdyj_gnXoHv5nfDMXXgrGKFFP5xcaSjKNT5OaAIN0Y3CCEPGDdWRwghDx"
                     }
                 }
             },
@@ -132,6 +144,18 @@
                     },
                     "etherspot":{
                         "1": ""
+                    }
+                }
+            },
+            "optimism_sepolia": {
+                "chain_id": "421614",
+                "mempool_id": "QmdWpCdE1tsjdPC3dkMEC3yq1vxXnsWh726ydvQuYhDMRa",
+                "enrs":{
+                    "candide":{
+                        "1": ""
+                    },
+                    "etherspot":{
+                        "1": "enr:-J24QJOU_DpL4y5-xfE73IPzhVtmsGDMYQDzZYxj10ZaAuiUfav-9AspT6V7AlmX-vYWXIRFyIt59bWtlRYRTvOBRLMFiGNoYWluX2lkiNw3qgAAAAAAgmlkgnY0gmlwhEEV5tyJc2VjcDI1NmsxoQNr3E5MgtnDB5o5ZPiuAqwVKaPjQCOP5R2TFsbxXnk91YN0Y3CCEPWDdWRwghD1"
                     }
                 }
             }
