@@ -148,7 +148,7 @@
                 }
             },
             "optimism_sepolia": {
-                "chain_id": "421614",
+                "chain_id": "11155420",
                 "mempool_id": "QmdWpCdE1tsjdPC3dkMEC3yq1vxXnsWh726ydvQuYhDMRa",
                 "enrs":{
                     "candide":{
